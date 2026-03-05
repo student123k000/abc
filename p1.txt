@@ -1,0 +1,23 @@
+Aim: Use Google and Whois for Reconnaisasance
+
+search www.crickbuzz.com on who is site
+
+B)Google Reconnaisasance
+1)basic site indexing 
+	site:rtccs.edu.in
+2. Search for document files
+filetype:pdf site:https://www.mu.ac.in/
+filetype:xls site:https://mum.digitaluniversity.ac/
+filetype:docx site:vesit.ves.ac.in
+
+3. Search for login / admin URLs
+inurl:login site:vesit.ves.ac.in 
+inurl:admin site:vesit.ves.ac.in 
+intitle:"login" site:vesit.ves.ac.in
+
+4. Search for directory listings 
+intitle:"index of" site:vesit.ves.ac.in
+
+5. Search for potential sensitive keywords
+"password" site:vesit.ves.ac.in
+"confidential" site:vesit.ves.ac.in

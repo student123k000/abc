@@ -1,0 +1,13 @@
+Aim: Using Traceroute, ping, ifconfig, netstat Command
+
+Step 2: run ipconfig
+ command: ipconfig
+ 
+Step 3: run Netstat
+	command: netstat
+	
+Step 4: run ARP command
+	command: arp -a
+	
+Step 4: run tracert 
+	command: tracert www.google.com 
